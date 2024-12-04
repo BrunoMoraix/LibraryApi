@@ -8,7 +8,6 @@ Este projeto é uma API RESTful que permite o gerenciamento de livros, usuários
 A API fornece as funcionalidades de criar, ler, atualizar e excluir livros e usuários, bem como registrar empréstimos e devoluções de livros. Também oferece relatórios como os livros mais emprestados e usuários com empréstimos pendentes.
 
 
-
 -Como Baixar o Repositório-
 
 Para baixar este repositório, siga os passos abaixo:
@@ -55,6 +54,12 @@ Se você deseja contribuir para o projeto, consulte o arquivo [CONTRIBUTING.md](
 Este projeto é licenciado sob a Licença Creative Commons - Atribuição 4.0 Internacional (CC BY 4.0).
 
 Leia a licença completa em: https://creativecommons.org/licenses/by/4.0/
+
+
+![image](https://github.com/user-attachments/assets/973084f5-9145-4dc2-9156-274780f26583)
+![image](https://github.com/user-attachments/assets/de5e4a30-377f-4a64-9baf-df72427c953c)
+![image](https://github.com/user-attachments/assets/3ce78d1e-76c7-49ef-b2a3-d8b38b9ef16e)
+![image](https://github.com/user-attachments/assets/2db60fc1-52b7-49dd-80c5-e0fd142a616b)
 
 
 
